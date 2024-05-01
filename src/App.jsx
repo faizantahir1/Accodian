@@ -1,12 +1,12 @@
 import React from 'react'
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Birthday from './Birthday';
+import Accodian from './Accodian';
 
 const App = () => {
   return (
     <>
-    <Birthday/>
-    
+    {/* <Birthday/> */}
+    <Accodian/>
     </>
   )
 }
